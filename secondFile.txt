@@ -1,8 +1,8 @@
 a
 b
-c
+c changed
 d
-e
+e changed
 f
 g
 h
